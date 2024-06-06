@@ -1,0 +1,4 @@
+- **private**: A private modifier’s access level is restricted to members of the class. It isn’t accessible outside of the class.
+- default: A default modifier’s access level is limited to the package. It’s not possible to get to it from outside the package. If you don’t indicate an access level, the default will be used.
+- **protected:** A protected modifier’s access level is both within and outside the package via a child class.
+- **public:** A public modifier’s access level is universal. It can be accessed from within and outside the class, and from within and outside the package.![[Screenshot 2024-05-28 at 7.16.57 PM.png]]

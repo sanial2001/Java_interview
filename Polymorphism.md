@@ -1,0 +1,3 @@
+Ability to exist in different forms
+- **Method Overloading:** When there are numerous functions with the same name but distinct parameters, this is referred to as overloading.
+- **Runtime Polymorphism:** Runtime polymorphism, often known as Dynamic Method Dispatch, is a technique for resolving calls to overridden methods at runtime rather than at compile time. A superclass's reference variable is used to call an overridden method in this process.
